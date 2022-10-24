@@ -13,3 +13,4 @@ setup.cfg
 .mypy_cache/
 pymeshio_addon*
 resources/
+.idea/
